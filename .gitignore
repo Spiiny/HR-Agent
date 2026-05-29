@@ -1,0 +1,75 @@
+# Python
+
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+
+# Environment variables
+
+.env
+
+
+# Database files
+
+*.db
+*.sqlite3
+
+
+# Chroma vector database
+
+db/chroma_db/
+
+
+# VS Code
+
+.vscode/
+
+
+# MacOS
+
+.DS_Store
+
+
+# Logs
+
+*.log
+
+
+# Node.js
+
+frontend/node_modules/
+
+
+# React build files
+
+frontend/dist/
+
+
+# Tailwind cache
+
+.cache/
+
+
+# Python test cache
+
+.pytest_cache/
+
+
+# Coverage
+
+.coverage
+htmlcov/
+
+
+# Jupyter
+
+.ipynb_checkpoints/
+
+
+# Temporary files
+
+tmp/
+temp/
