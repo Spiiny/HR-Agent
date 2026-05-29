@@ -4,7 +4,7 @@ AI-powered HR Assistant built using FastAPI, React, LangChain, OpenAI, SQLite, a
 
 ## Overview
 
-PeopleDesk AI is a full-stack HR assistant that enables employees and HR teams to interact with HR data and policies using natural language.
+HR-Agent is a full-stack HR assistant that enables employees and HR teams to interact with HR data and policies using natural language.
 
 The system combines:
 
