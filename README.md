@@ -130,7 +130,7 @@ HR-AI-Agent/
 ## 1. Clone Repository
 
 ```bash
-git clone https://github.com/your-username/peopledesk-ai.git
+git clone https://github.com/Spiiny/HR-Agent.git
 ```
 
 ---
